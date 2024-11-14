@@ -1,4 +1,5 @@
-# 🌐 Welcome to My Programming Space! | 저의 프로그래밍 공간에 오신 것을 환영합니다!
+# 🌐 Welcome to My Programming Space!
+# 저의 프로그래밍 공간에 오신 것을 환영합니다!
 
 This is where I explore and learn programming languages.  
 이곳은 제가 다양한 프로그래밍 언어를 탐구하고 배우는 공간입니다.
